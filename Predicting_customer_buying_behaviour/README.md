@@ -1,4 +1,4 @@
-# Predictive modeling of customer bookings
+# Predictive Modeling of Customer Bookings
 
 ---
 
@@ -23,14 +23,14 @@ The Customer Booking dataset contains lots of features listed below:
 - `flight_duration` = total duration of flight (in hours)
 - `booking_complete` = flag indicating if the customer completed the booking
 
-### Explore and prepare the dataset
+### Explore And Prepare The Dataset
 
 We would explore the data in order to better understand what we have and the statistical properties of the dataset.
 
-## Train a machine learning model
+### Train A Machine Learning Model
 
 We will train a machine learning model to be able to predict the target outcome, which is a customer making a booking. For this task, we would use a RandomForest algorithm that easily allows you to output information about how each variable within the model contributes to its predictive power. 
 
-## Evaluate model and present findings
+### Evaluate Model And Present Findings
 
 After training the model, we would evaluate how well it performed by conducting cross-validation and outputting appropriate evaluation metrics. Furthermore, we would create a visualisation to interpret how each variable contributed to the model. And summarise findings in a single slide to be sent to your manager.
